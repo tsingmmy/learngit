@@ -7,3 +7,4 @@ Add a line to check head.
 Add another line to check head.
 the line in temp dir.
 Creating a new branch is quick.
+Creating a new branch is quick AND simple.
