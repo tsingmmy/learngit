@@ -6,4 +6,4 @@ Git tracks changes of files.
 Add a line to check head.
 Add another line to check head.
 the line in temp dir.
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
