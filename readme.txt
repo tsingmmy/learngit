@@ -5,3 +5,4 @@ Git tracks changes.
 Git tracks changes of files.
 Add a line to check head.
 Add another line to check head.
+the line in temp dir.
